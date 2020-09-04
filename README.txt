@@ -1,4 +1,4 @@
-範例：個人薪資單
+輸出範例：個人薪資單
 
 /*
 PAYSLIP FOR DEC 2010
@@ -15,7 +15,7 @@ Total Pay: $62,550
 */
 
 
-範例：所有工時低於10小時的人
+輸出範例：所有工時低於10小時的人
 
 Staff with less than 10 working hours
 
