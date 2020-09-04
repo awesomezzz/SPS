@@ -1,0 +1,11 @@
+PAYSLIP FOR SEP 2018
+=======================
+Name of Staff: John
+Hours Worked: 12
+
+Basic Pay: NT$360.00
+Overtime: NT$0.00
+
+=======================
+Total Pay: NT$360.00
+=======================

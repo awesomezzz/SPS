@@ -1,0 +1,13 @@
+E:\VisualStudio\SalaryPaymentSystem\SalaryPaymentSystem\bin\Debug\netcoreapp3.1\SalaryPaymentSystem.exe
+E:\VisualStudio\SalaryPaymentSystem\SalaryPaymentSystem\bin\Debug\netcoreapp3.1\SalaryPaymentSystem.deps.json
+E:\VisualStudio\SalaryPaymentSystem\SalaryPaymentSystem\bin\Debug\netcoreapp3.1\SalaryPaymentSystem.runtimeconfig.json
+E:\VisualStudio\SalaryPaymentSystem\SalaryPaymentSystem\bin\Debug\netcoreapp3.1\SalaryPaymentSystem.runtimeconfig.dev.json
+E:\VisualStudio\SalaryPaymentSystem\SalaryPaymentSystem\bin\Debug\netcoreapp3.1\SalaryPaymentSystem.dll
+E:\VisualStudio\SalaryPaymentSystem\SalaryPaymentSystem\bin\Debug\netcoreapp3.1\SalaryPaymentSystem.pdb
+E:\VisualStudio\SalaryPaymentSystem\SalaryPaymentSystem\obj\Debug\netcoreapp3.1\SalaryPaymentSystem.csprojAssemblyReference.cache
+E:\VisualStudio\SalaryPaymentSystem\SalaryPaymentSystem\obj\Debug\netcoreapp3.1\SalaryPaymentSystem.csproj.CoreCompileInputs.cache
+E:\VisualStudio\SalaryPaymentSystem\SalaryPaymentSystem\obj\Debug\netcoreapp3.1\SalaryPaymentSystem.AssemblyInfoInputs.cache
+E:\VisualStudio\SalaryPaymentSystem\SalaryPaymentSystem\obj\Debug\netcoreapp3.1\SalaryPaymentSystem.AssemblyInfo.cs
+E:\VisualStudio\SalaryPaymentSystem\SalaryPaymentSystem\obj\Debug\netcoreapp3.1\SalaryPaymentSystem.dll
+E:\VisualStudio\SalaryPaymentSystem\SalaryPaymentSystem\obj\Debug\netcoreapp3.1\SalaryPaymentSystem.pdb
+E:\VisualStudio\SalaryPaymentSystem\SalaryPaymentSystem\obj\Debug\netcoreapp3.1\SalaryPaymentSystem.genruntimeconfig.cache

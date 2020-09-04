@@ -1,0 +1,11 @@
+PAYSLIP FOR SEP 2018
+=======================
+Name of Staff: Yvonne
+Hours Worked: 8
+
+Basic Pay: NT$400.00
+Allowance: NT$1,000.00
+
+=======================
+Total Pay: NT$400.00
+=======================

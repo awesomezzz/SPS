@@ -1,0 +1,11 @@
+PAYSLIP FOR SEP 2018
+=======================
+Name of Staff: Carol
+Hours Worked: 5
+
+Basic Pay: NT$150.00
+Overtime: NT$0.00
+
+=======================
+Total Pay: NT$150.00
+=======================
